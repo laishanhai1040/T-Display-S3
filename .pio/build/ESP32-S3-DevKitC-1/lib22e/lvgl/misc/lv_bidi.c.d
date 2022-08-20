@@ -1,0 +1,19 @@
+.pio/build/ESP32-S3-DevKitC-1/lib22e/lvgl/misc/lv_bidi.c.o: \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/lv_bidi.c \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/lv_bidi.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../lv_conf_internal.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../lv_conf_kconfig.h \
+ C:/Users/laish/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qspi_opi/include/sdkconfig.h \
+ C:/Users/laish/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/lv_conf.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/lv_txt.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/lv_area.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../font/lv_font.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../font/../lv_conf_internal.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../font/lv_symbol_def.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../font/../misc/lv_area.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/lv_printf.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/lv_types.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../misc/lv_mem.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../misc/../lv_conf_internal.h \
+ .pio/libdeps/ESP32-S3-DevKitC-1/lvgl/src/misc/../misc/lv_types.h
